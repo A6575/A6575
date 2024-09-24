@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy una entusiasta de la programación con un profundo amor por aprender y enfrentar nuevos desafíos. Me especializo en Python 🐍, tengo conocimientos intermedios en C++ y me adentro poco a poco en el fascinante mundo del desarrollo frontend con HTML, CSS y JavaScript 🌐. Me enorgullece ver cómo mis habilidades han crecido con el tiempo, y siempre estoy lista para aprender nuevas tecnologías y lenguajes 📚.<br><br>Me apasiona tanto el desarrollo backend como frontend 💻, y disfruto trabajar en equipo para crear soluciones innovadoras. Durante mi experiencia universitaria, he tenido la oportunidad de colaborar en proyectos donde no solo contribuyo con código, sino también con ideas que pueden marcar la diferencia 💡.<br><br>Lo que más me motiva es el aprendizaje constante, la resolución de problemas y poder aportar mi granito de arena para facilitar la vida de los demás 🌱. Además, tengo un gran interés en el campo de la inteligencia artificial 🤖, y estoy dispuesta a seguir aprendiendo para, algún día, poder desarrollar proyectos en esa área 🚀.<br><br>Fuera del código, disfruto leyendo 📖, escribiendo ✍️, aprendiendo idiomas (actualmente, inglés y un poco de mandarín 🈵), viendo películas de animación 🎥 y desafiando mi mente con juegos de acertijos 🧩.
+👋 ¡Hola! Soy una entusiasta de la programación con un profundo amor por aprender y enfrentar nuevos desafíos. Me especializo en Python 🐍, tengo conocimientos intermedios en C++ y me adentro poco a poco en el fascinante mundo del desarrollo frontend con HTML, CSS y JavaScript 🌐. Me enorgullece ver cómo mis habilidades han crecido con el tiempo, y siempre estoy lista para aprender nuevas tecnologías y lenguajes 📚.<br><br>Me apasiona tanto el desarrollo backend como frontend 💻, y disfruto trabajar en equipo para crear soluciones innovadoras. Durante mi experiencia universitaria, he tenido la oportunidad de colaborar en proyectos donde no solo contribuyo con código, sino también con ideas que pueden marcar la diferencia 💡.<br><br>Lo que más me motiva es el aprendizaje constante, la resolución de problemas y poder aportar mi granito de arena para facilitar la vida de los demás 🌱. Además, tengo un gran interés en el campo de la inteligencia artificial 🤖, y estoy dispuesta a seguir aprendiendo para, algún día, poder desarrollar proyectos en esa área 🚀.<br><br>Fuera del código, disfruto leyendo 📖, escribiendo ✍️, aprendiendo idiomas (actualmente, dominando inglés y un poco de mandarín 🈵), viendo películas de animación 🎥 y desafiando mi mente con juegos de acertijos 🧩.
 
 
 ## 🌐 Socials:
@@ -24,7 +24,7 @@
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=A6575&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=A6575&limit=20&theme=dracula&combine_all_yearly_contributions=true&hide_border=true"/>
 </div>
 
 ---
