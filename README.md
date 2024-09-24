@@ -11,12 +11,13 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A6575&bg_color=0d1117&theme=dracula&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 GitHub Stats:
+
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=A6575&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Astrid github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A6575&langs_count=20&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A6575&theme=dracula&hide_border=true"/>
+  <div>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=A6575&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Astrid github stats" />
+    <img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=A6575&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/>
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A6575&langs_count=20&theme=dracula&hide_border=true&count_private=true&layout=donut" />
 </div>
 
 ## 🏆 GitHub Trophies
