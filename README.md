@@ -12,8 +12,8 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=A6575&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="Astrid github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A6575&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=donut" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=A6575&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Astrid github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A6575&langs_count=20&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A6575&theme=dracula&hide_border=true"/>
