@@ -1,6 +1,21 @@
 # 💫 About Me:
-👋 ¡Hola! Soy una entusiasta de la programación con un profundo amor por aprender y enfrentar nuevos desafíos. Me especializo en Python 🐍, tengo conocimientos intermedios en C++ y me adentro poco a poco en el fascinante mundo del desarrollo frontend con HTML, CSS y JavaScript 🌐. Me enorgullece ver cómo mis habilidades han crecido con el tiempo, y siempre estoy lista para aprender nuevas tecnologías y lenguajes 📚.<br><br>Me apasiona tanto el desarrollo backend como frontend 💻, y disfruto trabajar en equipo para crear soluciones innovadoras. Durante mi experiencia universitaria, he tenido la oportunidad de colaborar en proyectos donde no solo contribuyo con código, sino también con ideas que pueden marcar la diferencia 💡.<br><br>Lo que más me motiva es el aprendizaje constante, la resolución de problemas y poder aportar mi granito de arena para facilitar la vida de los demás 🌱. Además, tengo un gran interés en el campo de la inteligencia artificial 🤖, y estoy dispuesta a seguir aprendiendo para, algún día, poder desarrollar proyectos en esa área 🚀.<br><br>Fuera del código, disfruto leyendo 📖, escribiendo ✍️, aprendiendo idiomas (actualmente, dominando inglés y un poco de mandarín 🈵), viendo películas de animación 🎥 y desafiando mi mente con juegos de acertijos 🧩.
-
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div>
+    <h3>🇪🇸 Español</h3>
+    <p>
+      👋 ¡Hola! Soy una entusiasta de la programación con un profundo amor por aprender y enfrentar nuevos desafíos. Me especializo en Python 🐍, tengo conocimientos intermedios en C++ y me adentro poco a poco en el fascinante mundo del desarrollo frontend con HTML, CSS y JavaScript 🌐. Me enorgullece ver cómo mis habilidades han crecido con el tiempo, y siempre estoy lista para aprender nuevas tecnologías y lenguajes de programación📚.<br><br>Me apasiona tanto el desarrollo backend como frontend 💻, y disfruto trabajar en equipo para crear soluciones innovadoras. Durante mi experiencia universitaria, he tenido la oportunidad de colaborar en proyectos donde no solo contribuyo con código, sino también con ideas que pueden marcar la diferencia 💡.<br><br>Lo que más me motiva es el aprendizaje constante, la resolución de problemas y poder aportar mi granito de arena para facilitar la vida de los demás 🌱. Además, tengo un gran interés en el campo de la inteligencia artificial 🤖, y estoy dispuesta a seguir aprendiendo para, algún día, poder desarrollar proyectos en esa área 🚀.<br><br>Fuera del código, disfruto leyendo 📖, escribiendo ✍️, aprendiendo idiomas (actualmente, dominando inglés y un poco de mandarín 🈵), viendo películas de animación 🎥 y desafiando mi mente con juegos de acertijos 🧩.
+    </p>
+  </div>
+  <div>
+    <h3>🇬🇧 English</h3>
+    <p>
+      👋 Hello! I'm a programming enthusiast with a deep love for learning and tackling new challenges. I specialize in Python 🐍, have intermediate knowledge of C++, and am gradually diving into the fascinating world of frontend development with HTML, CSS, and JavaScript 🌐. I'm proud of how my skills have grown over time, and I'm always ready to learn new technologies and programming languages📚.<br><br>
+I'm passionate about both backend and frontend development 💻, and I enjoy working in teams to create innovative solutions. During my university experience, I've had the opportunity to collaborate on projects where I contribute not only with code but also with ideas that can make a difference 💡.<br><br>
+What motivates me the most is continuous learning, solving problems, and contributing my part to make life easier for others 🌱. Additionally, I have a strong interest in artificial intelligence 🤖, and I'm eager to keep learning so I can someday develop projects in that field 🚀.<br><br>
+Outside of coding, I enjoy reading 📖, writing ✍️, learning languages (currently fluent in English and dabbling in Mandarin 🈵), watching animated movies 🎥, and challenging my mind with puzzle games 🧩.
+    </p>
+  </div>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/astrid-alvarado-911b07231) 
