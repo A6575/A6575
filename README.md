@@ -31,7 +31,7 @@ Outside of coding, I enjoy reading 📖, writing ✍️, learning languages (cur
 <div align="center">
   <div>
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=A6575&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Astrid github stats" />
-    <img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=A6575&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/>
+    <img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=A6575&include_all_commits=true&theme=dracula&hide_border=true"/>
   </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A6575&langs_count=20&theme=dracula&hide_border=true&count_private=true&layout=donut" />
 </div>
