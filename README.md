@@ -43,8 +43,4 @@ Outside of coding, I enjoy reading 📖, writing ✍️, learning languages (cur
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=A6575&limit=20&theme=dracula&combine_all_yearly_contributions=true&hide_border=true"/>
 </div>
-
----
-[![](https://visitcount.itsvg.in/api?id=A6575&icon=0&color=6)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
